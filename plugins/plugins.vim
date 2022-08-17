@@ -27,5 +27,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'vim-airline/vim-airline-themes'
     
     Plug 'mhartington/oceanic-next'
-call plug#end()
+
+    "Autocompletado
+    Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+    call plug#end()
 
