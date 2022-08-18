@@ -31,5 +31,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     "Autocompletado
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
+    Plug 'tpope/vim-fugitive'
+
+
     call plug#end()
 
