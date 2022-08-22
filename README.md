@@ -2,16 +2,16 @@
 Mi configuración de nvim
 Plugins instalados
 
-sheerun/vim-polyglot
-scrooloose/NERDTree
-jiangmiao/auto-pairs
-morhetz/gruvbox
-godlygeek/csapprox
-powerline/powerline
-easymotion/vim-easymotion
-christoomey/vim-tmux-navigator
+sheerun/vim-polyglot<br>
+scrooloose/NERDTree<br>
+jiangmiao/auto-pairs<br>
+morhetz/gruvbox<br>
+godlygeek/csapprox<br>
+powerline/powerline<br>
+easymotion/vim-easymotion<br>
+christoomey/vim-tmux-navigator<br>
 vim-airline/vim-airline
-vim-airline/vim-airline-themes
-mhartington/oceanic-next
-neoclide/coc.nvim
-tpope/vim-fugitive
+vim-airline/vim-airline-themes<br>
+mhartington/oceanic-next<br>
+neoclide/coc.nvim<br>
+tpope/vim-fugitive<br>
