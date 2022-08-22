@@ -18,7 +18,8 @@ set spelllang=en,es
 set termguicolors
 set background=dark
 set noshowmode
-set clipboard=unnamed
+set clipboard^=unnamed,unnamedplus
+"set clipboard=unnamed
 set numberwidth=1
 set showcmd
 set ruler
@@ -32,3 +33,5 @@ colorscheme gruvbox
 let g:gruvbox_contrast = 'hard'
 let g:gruvbox_termcolors = 256
 highlight Normal ctermbg=NONE
+
+
