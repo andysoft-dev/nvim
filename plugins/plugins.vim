@@ -1,5 +1,5 @@
 " ato-install vim-plug
-if empty(glob('/$HOME\AppData\Local\nvim\autoload\plug.vim'))
+if empty(glob('$HOME\AppData\Local\nvim\autoload\plug.vim'))
   silent !curl -fLo $HOME\AppData\Local\nvim\nvim\autoload\plug.vim --create-dirs
     \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
   "autocmd VimEnter * PlugInstall
