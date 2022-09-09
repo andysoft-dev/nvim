@@ -32,6 +32,7 @@ call plug#begin('$HOME\AppData\Local\nvim\autoload\plugged')
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
     Plug 'tpope/vim-fugitive'
+    Plug 'Yggdroot/indentLine'
 
 
     call plug#end()
